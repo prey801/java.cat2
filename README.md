@@ -130,6 +130,6 @@ To modify these settings, update the connection parameters in the `connectToData
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Author
-- Created by: [Your Name]
-- Student ID: [Your ID]
-- Course: CAT 2 Java
+- Created by: Brian Muuo Musyoki
+- Student ID: Bscit-05-0188/2022
+- Course: OOP CAT 2 Java
